@@ -77,3 +77,27 @@ My desktop application is a language-learning tool designed to make memorizing G
 
 ### <a name='game_2'></a>Game 2
 
+<p align="center">
+    <img src="figures/8.jpg" alt="Figure 8" width="400">
+</p>
+<p align="center">
+<b>Figure 8:</b> In the second game, three German words are displayed on the left, and their Turkish translations appear on the right in a mixed order.
+</p>
+
+<br>
+
+<p align="center">
+    <img src="figures/11.jpg" alt="Figure 9" width="400">
+</p>
+<p align="center">
+<b>Figure 9:</b> The user first selects a German word on the left, then its corresponding Turkish translation on the right. If the match is correct, both words disappear.
+</p> 
+
+<br>
+
+<p align="center">
+    <img src="figures/12.jpg" alt="Figure 10" width="400">
+</p>
+<p align="center">
+<b>Figure 10:</b> At the end of the game, the user receives a score based on their performance.
+</p> 
