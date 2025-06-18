@@ -35,5 +35,27 @@ My desktop application is a language-learning tool designed to make memorizing G
 </p>
 
 ### <a name='addWord'></a>Adding a New Word in the Game
+
+<p align="center">
+    <img src="figures/2.jpg" alt="Figure 3" width="300">
+</p>
+<p align="center">
+<b>Figure 3:</b> When the user clicks on "add a new word", it will open a notification which states some constraints. (First UI, which will change).
+</p>
+<br>
+<p align="center">
+    <img src="figures/3.jpg" alt="Figure 3" width="300">
+</p>
+<p align="center">
+<b>Figure 3:</b> Then, the user should select word type (e.g., noun, adjective, etc.). Based on this selection, the next will be determined. (First UI, which will change).
+</p>
+<br>
+<p align="center">
+    <img src="figures/4.jpg" alt="Figure 4" width="300">
+</p>
+<p align="center">
+<b>Figure 4:</b> If the word is a noun, it will ask the user to write the following inputs: word, word's meaning, its article, and its plural form. (First UI, which will change).
+</p>
+
 ### <a name='game_1'></a>Game 1
 ### <a name='game_2'></a>Game 2
