@@ -1,5 +1,5 @@
 # Language Learning Application
-# HealthcareApp
+
 A prototype application for an easy language learning platform. <br>
 <br>
 
