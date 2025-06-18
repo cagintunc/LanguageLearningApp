@@ -22,7 +22,7 @@ My desktop application is a language-learning tool designed to make memorizing G
     <img src="figures/0.jpg" alt="Figure 1" width="300">
 </p>
 <p align="center">
-<b>Figure 1:</b> Main menu of the game (First UI, it will change).
+<b>Figure 1:</b> Main menu of the game. (This is the initial UI and will be revised later.)
 </p>
 
 ### <a name='german'></a>German Language Platform
@@ -31,7 +31,7 @@ My desktop application is a language-learning tool designed to make memorizing G
     <img src="figures/1.jpg" alt="Figure 2" width="300">
 </p>
 <p align="center">
-<b>Figure 2:</b> When the user selects the German language, a different page opens (First UI, which will change).
+<b>Figure 2:</b> When the user selects German as the language, a different page is displayed. (This is the initial UI and will be updated later.)
 </p>
 
 ### <a name='addWord'></a>Adding a New Word in the Game
@@ -40,22 +40,31 @@ My desktop application is a language-learning tool designed to make memorizing G
     <img src="figures/2.jpg" alt="Figure 3" width="300">
 </p>
 <p align="center">
-<b>Figure 3:</b> When the user clicks on "add a new word", it will open a notification which states some constraints. (First UI, which will change).
+<b>Figure 3:</b> When the user clicks 'Add a new word', a notification appears outlining certain input constraints. (This is the initial UI and will be updated later.)
 </p>
 <br>
 <p align="center">
-    <img src="figures/3.jpg" alt="Figure 3" width="300">
+    <img src="figures/3.jpg" alt="Figure 4" width="300">
 </p>
 <p align="center">
-<b>Figure 3:</b> Then, the user should select word type (e.g., noun, adjective, etc.). Based on this selection, the next will be determined. (First UI, which will change).
+<b>Figure 4:</b> Next, the user selects the word type (e.g., noun, adjective, etc.), which determines the following input fields. (This is the initial UI and will be revised later.)
 </p>
 <br>
 <p align="center">
-    <img src="figures/4.jpg" alt="Figure 4" width="300">
+    <img src="figures/4.jpg" alt="Figure 5" width="300">
 </p>
 <p align="center">
-<b>Figure 4:</b> If the word is a noun, it will ask the user to write the following inputs: word, word's meaning, its article, and its plural form. (First UI, which will change).
+<b>Figure 5:</b> If the word is a noun, the user will be prompted to enter the following: the word, its meaning, its article, and its plural form. (This is the initial UI and will be updated later.)
 </p>
 
 ### <a name='game_1'></a>Game 1
+
+<p align="center">
+    <img src="figures/5.jpg" alt="Figure 6" width="400">
+</p>
+<p align="center">
+<b>Figure 6:</b> In the first game, players shoot the correct word that matches the meaning shown below.
+</p>
+
+
 ### <a name='game_2'></a>Game 2
