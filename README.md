@@ -19,13 +19,21 @@ My desktop application is a language-learning tool designed to make memorizing G
 ### <a name='mainmenu'></a>Main Menu
 
 <p align="center">
-    <img src="figures/0.jpg" alt="Figure 1" width="400">
+    <img src="figures/0.jpg" alt="Figure 1" width="300">
 </p>
 <p align="center">
-<b>Figure 1:</b> Main menu of the game
+<b>Figure 1:</b> Main menu of the game (First UI, it will change).
 </p>
 
 ### <a name='german'></a>German Language Platform
+
+<p align="center">
+    <img src="figures/1.jpg" alt="Figure 2" width="300">
+</p>
+<p align="center">
+<b>Figure 2:</b> When the user selects the German language, a different page opens (First UI, which will change).
+</p>
+
 ### <a name='addWord'></a>Adding a New Word in the Game
 ### <a name='game_1'></a>Game 1
 ### <a name='game_2'></a>Game 2
