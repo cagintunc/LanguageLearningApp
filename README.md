@@ -69,7 +69,7 @@ My desktop application is a language-learning tool designed to make memorizing G
 <br>
 
 <p align="center">
-    <img src="figures/6.jpg" alt="Figure 7" width="400">
+    <img src="figures/7.jpg" alt="Figure 7" width="400">
 </p>
 <p align="center">
 <b>Figure 7:</b> When the user selects the wrong word, a notification appears, and the word is added to the unknown word pool for use in machine learning–based word suggestions.
